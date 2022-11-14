@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devta</h1>
 <h3 align="center">A normal person who loves to write some trash code</h3>
 <h3 align="center">A certified meat-eater and gifted napper</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devtadanarsa&label=Profile%20views&color=008cb4&style=flat" alt="devtadanarsa" /> </p>
 <div align="center"><img src = "https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/></div>
 
 - 👨‍💻 I’m currently learning **C and C++**
