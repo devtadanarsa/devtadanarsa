@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Devta</h1>
 <h3 align="center">Computer Science Student</h3>
-<h3 align="center">Who Loves to Write Some Trash Code</h3>
+<h3 align="center">Loves to Write Some Trash Code</h3>
 <!-- <div align="center"><img src = "https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/></div> -->
 <br>
 
