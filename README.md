@@ -29,8 +29,11 @@ Join me on my LinkedIn and LeetCode, where I share my career progress, achieveme
 |<p align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="55" height="55"/></p>| <p align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="55" height="55"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="55" height="55"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" width="55" height="55"/></p>|
 
 ---
-<p align="left">
-    <img width="500" height="200" src="https://camo.githubusercontent.com/7d772b93bb8c42a065c365f1317f37d493437380d894f659ced70e491c59f8c6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646576746164616e6172736126">
-  <img width="500" height="200" src="https://camo.githubusercontent.com/e553441d44f56ee6d14801e1fbd3a2f947c318cc3974aec21af0f92d5e16db8d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d646576746164616e617273612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374">
+<p align="center">
+    <img src="https://camo.githubusercontent.com/7d772b93bb8c42a065c365f1317f37d493437380d894f659ced70e491c59f8c6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646576746164616e6172736126">
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e553441d44f56ee6d14801e1fbd3a2f947c318cc3974aec21af0f92d5e16db8d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d646576746164616e617273612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374">
 </p>
 
